@@ -1,0 +1,8 @@
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\bin\Debug\TechSup735146.exe.config
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\bin\Debug\TechSup735146.exe
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\bin\Debug\TechSup735146.pdb
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\bin\Debug\OSIsoft.AFSDK.dll
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\bin\Debug\OSIsoft.AFSDK.xml
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\obj\Debug\TechSup735146.csprojResolveAssemblyReference.cache
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\obj\Debug\TechSup735146.exe
+C:\VS\AFPerformanceTest\AfPerformance\TechSup735146\obj\Debug\TechSup735146.pdb
