@@ -1,0 +1,11 @@
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\CommandLine.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\log4net.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\OSIsoft.AFSDK.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\CommandLine.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\log4net.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\OSIsoft.AFSDK.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\obj\Release\AfPerformance.exe
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\obj\Release\AfPerformance.pdb
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\AfPerformance.exe.config
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\AfPerformance.exe
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Release\AfPerformance.pdb

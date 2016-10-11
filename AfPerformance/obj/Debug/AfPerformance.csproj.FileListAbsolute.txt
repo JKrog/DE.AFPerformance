@@ -1,0 +1,12 @@
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\AfPerformance.exe.config
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\obj\Debug\AfPerformance.csprojResolveAssemblyReference.cache
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\AfPerformance.exe
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\AfPerformance.pdb
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\CommandLine.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\log4net.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\OSIsoft.AFSDK.dll
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\CommandLine.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\log4net.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\bin\Debug\OSIsoft.AFSDK.xml
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\obj\Debug\AfPerformance.exe
+C:\VS\AFPerformanceTest\AfPerformance\AfPerformance\obj\Debug\AfPerformance.pdb
